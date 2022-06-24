@@ -6,6 +6,8 @@
 
 * [3D Torus](https://github.com/federkem/Demos/tree/main/Canvas/Demo%20-%20Canvas%20-%203D%20Torus.html)
 
+* [3D Torus](https://raw.githubusercontent.com/federkem/Demos/main/Canvas/Demo%20-%20Canvas%20-%203D%20Torus.html)
+
 ## WebGL
 
 * [Art of Code - Torus Knots](https://github.com/federkem/Demos/tree/main/WebGL/Demo%20-%20WebGL%20-%20Art%20of%20Code%20-%20Torus%20Knots.html)
